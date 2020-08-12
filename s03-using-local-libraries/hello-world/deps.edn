@@ -1,0 +1,3 @@
+{:deps  {time-lib/time-lib
+         {:local/root
+          "/Users/alanthompson/io.tupelo.demo/deps-cli-guide/s03-using-local-libraries/time-lib"}}}
